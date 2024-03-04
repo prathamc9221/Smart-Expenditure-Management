@@ -4,9 +4,9 @@ _file name_ = mongo_conn.py
 _date created_ = 11/20/2023
 _date last modified_ = 12/07/2023
 __python version = 3.11
-_author_ = "Anagha Ghate - aghate@binghamton.edu - B0103883",
-           "Vishakha Bhujbal - vbhujbal@binghamton.edu - B01040241"
-           "Sarthak Mushrif - smushrif@binghamton.edu - B00982618"
+_author_ = "Prathamesh Chaudhari - pchaudhari2@binghamton.edu - B01039752",
+           "Anagha Ghate"
+           "Swapnil Mane"
 _status_ = "Development"
 """
 
