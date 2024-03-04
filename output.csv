@@ -1,0 +1,232 @@
+Date,Account,Category,Subcategory,Note,INR,Income/Expense,Note.1,Amount,Currency,Account.1
+2021-11-21,CUB - online payment,Groceries,,Lunch,875.0,Expense,,17.5,USD,875.0
+2021-11-21,CUB - online payment,General,,Rapido,130.0,Expense,,2.6,USD,130.0
+2021-11-22,CUB - online payment,Groceries,,Dinner,90.0,Expense,,1.8,USD,90.0
+2021-11-22,CUB - online payment,Groceries,,Lunch with company,97.0,Expense,,1.94,USD,97.0
+2021-11-23,CUB - online payment,General,,Rapido,50.0,Expense,,1.0,USD,50.0
+2021-11-23,CUB - online payment,Groceries,,Dinner,179.0,Expense,,3.58,USD,179.0
+2021-11-24,CUB - online payment,Groceries,,Panipoori,20.0,Expense,,0.4,USD,20.0
+2021-11-24,CUB - online payment,Groceries,,Dinner,70.0,Expense,,1.4,USD,70.0
+2021-11-24,CUB - online payment,Groceries,,Snack,15.0,Expense,,0.3,USD,15.0
+2021-11-24,CUB - online payment,General,,Rapido,58.0,Expense,,1.16,USD,58.0
+2021-11-25,CUB - online payment,Groceries,,Dinner,95.0,Expense,,1.9,USD,95.0
+2021-11-25,CUB - online payment,General,,Rapido,58.0,Expense,,1.16,USD,58.0
+2021-11-25,CUB - online payment,Groceries,,Lunch with company,145.0,Expense,,2.9,USD,145.0
+2021-11-26,CUB - online payment,Groceries,,Snack,102.0,Expense,,2.04,USD,102.0
+2021-11-26,CUB - online payment,Groceries,,Beer,150.0,Expense,,3.0,USD,150.0
+2021-11-26,CUB - online payment,Groceries,,Lunch with company,150.0,Expense,,3.0,USD,150.0
+2021-11-26,CUB - online payment,Groceries,,Breakfast,60.0,Expense,,1.2,USD,60.0
+2021-11-26,CUB - online payment,Groceries,,Panipoori,40.0,Expense,,0.8,USD,40.0
+2021-11-27,CUB - online payment,Groceries,,Lunch with company,75.0,Expense,,1.5,USD,75.0
+2021-11-27,CUB - online payment,General,,Rapido,35.0,Expense,,0.7,USD,35.0
+2021-11-27,CUB - online payment,Groceries,,Dinner with gowdham,130.0,Expense,,2.6,USD,130.0
+2021-11-27,CUB - online payment,Groceries,,Dinner with gowdham,120.0,Expense,,2.4,USD,120.0
+2021-11-27,CUB - online payment,Groceries,,Breakfast,30.0,Expense,,0.6,USD,30.0
+2021-11-28,CUB - online payment,Groceries,,Zomato,269.4,Expense,,5.388,USD,269.4
+2021-11-28,CUB - online payment,Groceries,,Snack,94.0,Expense,,1.88,USD,94.0
+2021-11-29,CUB - online payment,Groceries,,Breakfast,40.0,Expense,,0.8,USD,40.0
+2021-11-29,CUB - online payment,Groceries,,Panipoori,40.0,Expense,,0.8,USD,40.0
+2021-11-29,CUB - online payment,Groceries,,Dinner,50.0,Expense,,1.0,USD,50.0
+2021-11-29,CUB - online payment,Groceries,,Lunch with company,40.0,Expense,,0.8,USD,40.0
+2021-11-30,CUB - online payment,General,,Bharath birthday,115.0,Expense,,2.3,USD,115.0
+2021-11-30,CUB - online payment,Groceries,,Lunch with company,128.0,Expense,,2.56,USD,128.0
+2021-11-30,CUB - online payment,Groceries,,Breakfast,70.0,Expense,,1.4,USD,70.0
+2021-12-01,CUB - online payment,Groceries,,Lunch with company,160.0,Expense,,3.2,USD,160.0
+2021-12-01,CUB - online payment,Payment,,Showergel,196.0,Expense,,3.92,USD,196.0
+2021-12-02,CUB - online payment,Groceries,,Vadapaav,75.0,Expense,,1.5,USD,75.0
+2021-12-02,CUB - online payment,Groceries,,Ice cream,504.0,Expense,,10.08,USD,504.0
+2021-12-03,CUB - online payment,Groceries,,Snack,40.0,Expense,,0.8,USD,40.0
+2021-12-03,CUB - online payment,Payment,,Mask,20.0,Expense,,0.4,USD,20.0
+2021-12-03,CUB - online payment,Payment,,Belt,130.0,Expense,,2.6,USD,130.0
+2021-12-03,CUB - online payment,Groceries,,Milk with bharath,25.0,Expense,,0.5,USD,25.0
+2021-12-04,CUB - online payment,Groceries,,Breakfast,200.0,Expense,,4.0,USD,200.0
+2021-12-04,CUB - online payment,General,,For company,30.0,Expense,,0.6,USD,30.0
+2021-12-04,CUB - online payment,Groceries,,Snack,65.0,Expense,,1.3,USD,65.0
+2021-12-04,CUB - online payment,Groceries,,Dinner,324.0,Expense,,6.48,USD,324.0
+2021-12-05,CUB - online payment,Groceries,,Milk with bharath,25.0,Expense,,0.5,USD,25.0
+2021-12-05,CUB - online payment,Payment,,Full hand and a hoodie,1800.0,Expense,,36.0,USD,1800.0
+2021-12-05,CUB - online payment,Household supplies,,Rent,4800.0,Expense,,96.0,USD,4800.0
+2021-12-06,CUB - online payment,Groceries,,Lunch with stu,150.0,Expense,,3.0,USD,150.0
+2021-12-06,CUB - online payment,Payment,,Cap,140.0,Expense,,2.8,USD,140.0
+2021-12-06,CUB - online payment,Payment,,Shoe,500.0,Expense,,10.0,USD,500.0
+2021-12-06,CUB - online payment,Groceries,,Milk with bharath,25.0,Expense,,0.5,USD,25.0
+2021-12-07,CUB - online payment,Groceries,,Horlicks,15.0,Expense,,0.3,USD,15.0
+2021-12-07,CUB - online payment,Groceries,,Milk with bharath,25.0,Expense,,0.5,USD,25.0
+2021-12-08,CUB - online payment,Groceries,,Milk,10.0,Expense,,0.2,USD,10.0
+2021-12-08,Cash,Groceries,,5 star,1120.72,Expense,,0.3,USD,15.0
+2021-12-08,CUB - online payment,Groceries,,Lunch with stu,100.0,Expense,,2.0,USD,100.0
+2021-12-09,CUB - online payment,Groceries,,Snack with bharath,40.0,Expense,,0.8,USD,40.0
+2021-12-09,CUB - online payment,Groceries,,Lunch with company,280.0,Expense,,5.6,USD,280.0
+2021-12-09,CUB - online payment,Groceries,,Breakfast with stu,110.0,Expense,,2.2,USD,110.0
+2021-12-09,CUB - online payment,Groceries,,Milk with bharath,25.0,Expense,,0.5,USD,25.0
+2021-12-10,CUB - online payment,Groceries,,Momos,195.0,Expense,,3.9,USD,195.0
+2021-12-10,CUB - online payment,Groceries,,Shopping,241.0,Expense,,4.82,USD,241.0
+2021-12-12,CUB - online payment,Groceries,,Milk with bharath,25.0,Expense,,0.5,USD,25.0
+2021-12-14,CUB - online payment,Groceries,,Milk with bharath,65.0,Expense,,1.3,USD,65.0
+2021-12-14,CUB - online payment,Groceries,,Snacks,74.0,Expense,,1.48,USD,74.0
+2021-12-14,CUB - online payment,Groceries,,Panipoori,80.0,Expense,,1.6,USD,80.0
+2021-12-14,CUB - online payment,Groceries,,Snacks,75.0,Expense,,1.5,USD,75.0
+2021-12-14,CUB - online payment,Groceries,,Lunch,40.0,Expense,,0.8,USD,40.0
+2021-12-16,CUB - online payment,Groceries,,Egg,30.0,Expense,,0.6,USD,30.0
+2021-12-16,CUB - online payment,Groceries,,Panipoori,20.0,Expense,,0.4,USD,20.0
+2021-12-16,CUB - online payment,Groceries,,Lunch,30.0,Expense,,0.6,USD,30.0
+2021-12-16,CUB - online payment,Groceries,,Milk with bharath,110.0,Expense,,2.2,USD,110.0
+2021-12-17,CUB - online payment,General,,Gave to gowdham,50.0,Expense,,1.0,USD,50.0
+2021-12-17,CUB - online payment,Groceries,,Lunch with company,110.0,Expense,,2.2,USD,110.0
+2021-12-17,CUB - online payment,Groceries,,Milk with bharath,70.0,Expense,,1.4,USD,70.0
+2021-12-18,CUB - online payment,Groceries,,Lunch,160.0,Expense,,3.2,USD,160.0
+2021-12-18,CUB - online payment,Dining out,,Spiderman ,363.72,Expense,,7.274400000000001,USD,363.72
+2021-12-18,CUB - online payment,Groceries,,To rahul,113.0,Expense,,2.26,USD,113.0
+2021-12-18,CUB - online payment,General,,To abijith,200.0,Expense,,4.0,USD,200.0
+2021-12-18,CUB - online payment,General,,To kumara,100.0,Expense,,2.0,USD,100.0
+2021-12-19,CUB - online payment,General,,To siva,100.0,Expense,,2.0,USD,100.0
+2021-12-20,CUB - online payment,General,,Taxi,80.0,Expense,,1.6,USD,80.0
+2021-12-20,CUB - online payment,Groceries,,Snacks,20.0,Expense,,0.4,USD,20.0
+2021-12-20,CUB - online payment,Groceries,,Milk with bharath,80.0,Expense,,1.6,USD,80.0
+2021-12-20,CUB - online payment,Groceries,,Lunch with barath,85.0,Expense,,1.7,USD,85.0
+2021-12-20,CUB - online payment,Groceries,,Milk with bharath,40.0,Expense,,0.8,USD,40.0
+2021-12-20,CUB - online payment,Groceries,,Water,20.0,Expense,,0.4,USD,20.0
+2021-12-21,CUB - online payment,Groceries,,Bun,18.0,Expense,,0.36,USD,18.0
+2021-12-21,CUB - online payment,Groceries,,Puffs,25.0,Expense,,0.5,USD,25.0
+2021-12-21,CUB - online payment,Groceries,,Dinner with barath,239.0,Expense,,4.78,USD,239.0
+2021-12-23,CUB - online payment,Groceries,,Puffs and coffee,32.0,Expense,,0.64,USD,32.0
+2021-12-23,CUB - online payment,Groceries,,Lemon tea with company,15.0,Expense,,0.3,USD,15.0
+2021-12-24,CUB - online payment,Groceries,,Lunch with company,262.0,Expense,,5.24,USD,262.0
+2021-12-24,CUB - online payment,Dining out,,Beer,150.0,Expense,,3.0,USD,150.0
+2021-12-25,CUB - online payment,Groceries,,Milk with bharath,40.0,Expense,,0.8,USD,40.0
+2021-12-25,CUB - online payment,Groceries,,Water,30.0,Expense,,0.6,USD,30.0
+2021-12-25,CUB - online payment,Groceries,,Corn,30.0,Expense,,0.6,USD,30.0
+2021-12-25,CUB - online payment,Dining out,,Books,400.0,Expense,,8.0,USD,400.0
+2021-12-25,CUB - online payment,General,,Cab,306.0,Expense,,6.12,USD,306.0
+2021-12-25,CUB - online payment,Groceries,,Dinner with barath,504.0,Expense,,10.08,USD,504.0
+2021-12-27,CUB - online payment,Groceries,,Coconut water with stu,50.0,Expense,,1.0,USD,50.0
+2021-12-27,CUB - online payment,Groceries,,Lunch with barath,115.0,Expense,,2.3,USD,115.0
+2021-12-28,CUB - online payment,Groceries,,Coffee and thattai,14.0,Expense,,0.28,USD,14.0
+2021-12-30,CUB - online payment,General,,Rapido + toll,286.0,Expense,,5.72,USD,286.0
+2021-12-30,CUB - online payment,Groceries,,Water,20.0,Expense,,0.4,USD,20.0
+2021-12-30,CUB - online payment,General,,Bommasandra to pg,199.0,Expense,,3.98,USD,199.0
+2021-12-30,CUB - online payment,Groceries,,Horlicks + kolakattai,25.0,Expense,,0.5,USD,25.0
+2021-12-30,CUB - online payment,General,,Pg to office,43.0,Expense,,0.86,USD,43.0
+2021-12-30,CUB - online payment,Groceries,,To barath,20.0,Expense,,0.4,USD,20.0
+2022-01-01,CUB - online payment,Groceries,,Snacks,85.0,Expense,,1.7,USD,85.0
+2022-01-02,CUB - online payment,General,,Train to vnr,725.0,Expense,,14.5,USD,725.0
+2022-01-02,CUB - online payment,Groceries,,Dinner with barath,200.0,Expense,,4.0,USD,200.0
+2022-01-02,CUB - online payment,General,,Tablet to gowdham,8.0,Expense,,0.16,USD,8.0
+2022-01-03,CUB - online payment,Groceries,,Lunch unlimited nv,300.0,Expense,,6.0,USD,300.0
+2022-01-03,CUB - online payment,Groceries,,Dairy milk,10.0,Expense,,0.2,USD,10.0
+2022-01-04,CUB - online payment,Groceries,,Sent to preethi,107.0,Expense,,2.14,USD,107.0
+2022-01-04,CUB - online payment,Groceries,,Lunch with company,106.0,Expense,,2.12,USD,106.0
+2022-01-04,CUB - online payment,General,,To vicky,80.0,Expense,,1.6,USD,80.0
+2022-01-04,CUB - online payment,Electricity,,Arrear and reval fee,1400.0,Expense,,28.0,USD,1400.0
+2022-01-05,CUB - online payment,Groceries,,McDonald's with company,211.0,Expense,,4.22,USD,211.0
+2022-01-05,CUB - online payment,General,,Lended money returned to vishnu,40.0,Expense,,0.8,USD,40.0
+2022-01-05,CUB - online payment,General,,Lended money returned to kumara,30.0,Expense,,0.6,USD,30.0
+2022-01-05,CUB - online payment,Groceries,,Lunch with company,388.0,Expense,,7.76,USD,388.0
+2022-01-05,CUB - online payment,General,,To gobi 1st 1/4th,500.0,Expense,,10.0,USD,500.0
+2022-01-05,CUB - online payment,General,,To abijith and to vicky lend money returned,500.0,Expense,,10.0,USD,500.0
+2022-01-05,CUB - online payment,General,,Refund for bus ticket,60.0,Expense,,1.2,USD,60.0
+2022-01-05,CUB - online payment,Groceries,,Jan 2nd with shakur and barath,354.0,Expense,,7.08,USD,354.0
+2022-01-06,CUB - online payment,General,,Rapido to pg,42.0,Expense,,0.84,USD,42.0
+2022-01-06,CUB - online payment,Groceries,,Bingo,10.0,Expense,,0.2,USD,10.0
+2022-01-06,CUB - online payment,Groceries,,Dinner with roommate,877.81,Expense,,17.5562,USD,877.81
+2022-01-06,CUB - online payment,Groceries,,Ketch up,20.0,Expense,,0.4,USD,20.0
+2022-01-07,CUB - online payment,Groceries,,Coffee + biscuit,15.0,Expense,,0.3,USD,15.0
+2022-01-08,CUB - online payment,Household supplies,,Rent,4580.0,Expense,,91.6,USD,4580.0
+2022-01-08,CUB - online payment,Groceries,,Lunch with gowdham,535.3,Expense,,10.706,USD,535.3
+2022-01-10,CUB - online payment,Groceries,,Friday snacks with preethi gang,106.0,Expense,,2.12,USD,106.0
+2022-01-11,CUB - online payment,Groceries,,Lunch with not preethi,135.5,Expense,,2.71,USD,135.5
+2022-01-12,CUB - online payment,Groceries,,Pizza,301.75,Expense,,6.035,USD,301.75
+2022-01-12,CUB - online payment,General,,Recharge by gowdham,479.0,Expense,,9.58,USD,479.0
+2022-01-13,CUB - online payment,General,,Rapido to pg,43.0,Expense,,0.86,USD,43.0
+2022-01-13,CUB - online payment,Groceries,,Dinner,66.0,Expense,,1.32,USD,66.0
+2022-01-14,CUB - online payment,Groceries,,Lunch pongal,1530.0,Expense,,30.6,USD,1530.0
+2022-01-15,CUB - online payment,Groceries,,Snacks,70.0,Expense,,1.4,USD,70.0
+2022-01-15,CUB - online payment,General,,Bus to Bangalore,1365.0,Expense,,27.3,USD,1365.0
+2022-01-17,CUB - online payment,Groceries,,Eve snack,100.0,Expense,,2.0,USD,100.0
+2022-01-18,CUB - online payment,Groceries,,Dinner,301.15,Expense,,6.023,USD,301.15
+2022-01-18,CUB - online payment,Groceries,,Lunch with company,148.0,Expense,,2.96,USD,148.0
+2022-01-18,CUB - online payment,General,,To kumara,200.0,Expense,,4.0,USD,200.0
+2022-01-18,CUB - online payment,Groceries,,Snack with preethi,59.0,Expense,,1.18,USD,59.0
+2022-01-19,CUB - online payment,Groceries,,Lunch + chocolate for preethi,171.0,Expense,,3.42,USD,171.0
+2022-01-21,CUB - online payment,Groceries,,Snacks,37.0,Expense,,0.74,USD,37.0
+2022-01-21,CUB - online payment,Groceries,,Lunch with company,188.0,Expense,,3.76,USD,188.0
+2022-01-23,CUB - online payment,Dining out,,Badminton,200.0,Expense,,4.0,USD,200.0
+2022-01-23,CUB - online payment,Groceries,,Snacks with preethi and azar,176.0,Expense,,3.52,USD,176.0
+2022-01-23,CUB - online payment,Groceries,,Lunch,302.0,Expense,,6.04,USD,302.0
+2022-01-23,CUB - online payment,Groceries,,Sent to vicky,300.0,Expense,,6.0,USD,300.0
+2022-01-23,CUB - online payment,Groceries,,Dinner,465.0,Expense,,9.3,USD,465.0
+2022-01-23,CUB - online payment,Groceries,,Pepsi,40.0,Expense,,0.8,USD,40.0
+2022-01-24,CUB - online payment,Groceries,,Lunch with company,133.0,Expense,,2.66,USD,133.0
+2022-01-24,CUB - online payment,Groceries,,Snack,40.0,Expense,,0.8,USD,40.0
+2022-01-25,CUB - online payment,Groceries,,Kfc date with myself,259.0,Expense,,5.18,USD,259.0
+2022-01-25,CUB - online payment,General,,Train to vnr,325.0,Expense,,6.5,USD,325.0
+2022-01-25,CUB - online payment,Groceries,,Lemon tea,18.0,Expense,,0.36,USD,18.0
+2022-01-26,CUB - online payment,Groceries,,Paani poori,25.0,Expense,,0.5,USD,25.0
+2022-01-26,CUB - online payment,Groceries,,Snacks,115.0,Expense,,2.3,USD,115.0
+2022-01-27,CUB - online payment,Groceries,,Zinger box meal,279.0,Expense,,5.58,USD,279.0
+2022-01-27,CUB - online payment,General,,To vishnu,100.0,Expense,,2.0,USD,100.0
+2022-01-27,CUB - online payment,General,,To vicky,300.0,Expense,,6.0,USD,300.0
+2022-01-27,CUB - online payment,General,,Rapido to pg,43.0,Expense,,0.86,USD,43.0
+2022-01-28,CUB - online payment,Groceries,,Lunch with company,138.0,Expense,,2.76,USD,138.0
+2022-01-28,CUB - online payment,Groceries,,Banana,10.0,Expense,,0.2,USD,10.0
+2022-01-29,CUB - online payment,General,,Sent to barath,100.0,Expense,,2.0,USD,100.0
+2022-01-29,CUB - online payment,General,,Rapido to pg,44.0,Expense,,0.88,USD,44.0
+2022-01-30,CUB - online payment,Groceries,,Dinner,155.0,Expense,,3.1,USD,155.0
+2022-01-30,CUB - online payment,Groceries,,Brunch,105.0,Expense,,2.1,USD,105.0
+2022-01-30,CUB - online payment,Groceries,,Cycle gap ,120.0,Expense,,2.4,USD,120.0
+2022-01-31,CUB - online payment,General,,To vicky,200.0,Expense,,4.0,USD,200.0
+2022-01-31,CUB - online payment,General,,Vnr to apk,50.0,Expense,,1.0,USD,50.0
+2022-01-31,CUB - online payment,General,,To ksr station,153.0,Expense,,3.06,USD,153.0
+2022-02-02,CUB - online payment,Groceries,,Parotta,120.0,Expense,,2.4,USD,120.0
+2022-02-03,CUB - online payment,General,,To gowdham,150.0,Expense,,3.0,USD,150.0
+2022-02-03,CUB - online payment,Groceries,,Good soup,50.0,Expense,,1.0,USD,50.0
+2022-02-04,CUB - online payment,Groceries,,Shawarma,80.0,Expense,,1.6,USD,80.0
+2022-02-06,CUB - online payment,General,,To gobi,1500.0,Expense,,30.0,USD,1500.0
+2022-02-06,CUB - online payment,General,,To chennai,1000.0,Expense,,20.0,USD,1000.0
+2022-02-06,CUB - online payment,Groceries,,To kumara,150.0,Expense,,3.0,USD,150.0
+2022-02-06,CUB - online payment,Groceries,,Cakepark,125.0,Expense,,2.5,USD,125.0
+2022-02-07,CUB - online payment,General,,Auto to Gobi's place,214.0,Expense,,4.28,USD,214.0
+2022-02-08,CUB - online payment,Household supplies,,Bean bag,2099.0,Expense,,41.98,USD,2099.0
+2022-02-10,CUB - online payment,Groceries,,Kfc dinner,641.0,Expense,,12.82,USD,641.0
+2022-02-11,CUB - online payment,Groceries,,Dinner with aravind,373.0,Expense,,7.46,USD,373.0
+2022-02-12,CUB - online payment,Groceries,,Lunch,80.0,Expense,,1.6,USD,80.0
+2022-02-12,CUB - online payment,Household supplies,,Mirror,70.0,Expense,,1.4,USD,70.0
+2022-02-12,CUB - online payment,Groceries,,Dinner with aravind and buddies,491.0,Expense,,9.82,USD,491.0
+2022-02-13,CUB - online payment,Dining out,,Games ,100.0,Expense,,2.0,USD,100.0
+2022-02-16,CUB - online payment,Groceries,,Kfc ,475.0,Expense,,9.5,USD,475.0
+2022-02-16,CUB - online payment,Groceries,,Side dishes,165.0,Expense,,3.3,USD,165.0
+2022-02-17,CUB - online payment,Groceries,,Lunch,80.0,Expense,,1.6,USD,80.0
+2022-02-18,CUB - online payment,Groceries,,Kfc dinner,348.0,Expense,,6.96,USD,348.0
+2022-02-19,CUB - online payment,Groceries,,Random stuff for drinks,111.0,Expense,,2.22,USD,111.0
+2022-02-19,CUB - online payment,Groceries,,Snacks,250.0,Expense,,5.0,USD,250.0
+2022-02-19,CUB - online payment,General,,Bus ticket,1575.0,Expense,,31.5,USD,1575.0
+2022-02-19,CUB - online payment,General,,Took from sbi,200.0,Expense,,4.0,USD,200.0
+2022-02-19,CUB - online payment,General,,Metro,60.0,Expense,,1.2,USD,60.0
+2022-02-19,CUB - online payment,General,,To auto anna,50.0,Expense,,1.0,USD,50.0
+2022-02-19,CUB - online payment,General,,To egmore,270.0,Expense,,5.4,USD,270.0
+2022-02-19,CUB - online payment,Groceries,,Ramen with gobi,380.0,Expense,,7.6,USD,380.0
+2022-02-20,CUB - online payment,Groceries,,Lunch,200.0,Expense,,4.0,USD,200.0
+2022-02-21,CUB - online payment,General,,Train cbe to chn,201.8,Expense,,4.0360000000000005,USD,201.8
+2022-02-21,CUB - online payment,Household supplies,,Stuffs,336.0,Expense,,6.72,USD,336.0
+2022-02-21,CUB - online payment,General,,Travel to koyambedu,138.0,Expense,,2.76,USD,138.0
+2022-02-21,CUB - online payment,General,,It better be worth it,1300.0,Expense,,26.0,USD,1300.0
+2022-02-22,CUB - online payment,General,,Auto to laxmi mills,120.0,Expense,,2.4,USD,120.0
+2022-02-23,CUB - online payment,Payment,,Earphone,399.0,Expense,,7.98,USD,399.0
+2022-02-23,CUB - online payment,Groceries,,Eggs,83.0,Expense,,1.66,USD,83.0
+2022-02-23,CUB - online payment,Payment,,Hoodie for gobi,399.0,Expense,,7.98,USD,399.0
+2022-02-24,CUB - online payment,Household supplies,,,303.0,Expense,,6.06,USD,303.0
+2022-02-24,CUB - online payment,Groceries,,Tamen,324.7,Expense,,6.494,USD,324.7
+2022-02-24,CUB - online payment,Groceries,,Creamstone,289.0,Expense,,5.78,USD,289.0
+2022-02-25,CUB - online payment,Groceries,,,33.0,Expense,,0.66,USD,33.0
+2022-02-26,CUB - online payment,Groceries,,Tea lights,84.0,Expense,,1.68,USD,84.0
+2022-02-26,CUB - online payment,Groceries,,Snacks,40.0,Expense,,0.8,USD,40.0
+2022-02-26,CUB - online payment,Dining out,,,1700.0,Expense,,34.0,USD,1700.0
+2022-02-26,CUB - online payment,General,,To karthi,100.0,Expense,,2.0,USD,100.0
+2022-02-26,CUB - online payment,Groceries,,,25.0,Expense,,0.5,USD,25.0
+2022-02-27,CUB - online payment,Groceries,,Lunch,243.0,Expense,,4.86,USD,243.0
+2022-02-28,CUB - online payment,Groceries,,Pizza,339.15,Expense,,6.7829999999999995,USD,339.15
+2022-03-01,CUB - online payment,Groceries,,Snacks,67.0,Expense,,1.34,USD,67.0
+2022-03-01,CUB - online payment,General,,Metro,30.0,Expense,,0.6,USD,30.0
+2022-03-01,CUB - online payment,Groceries,,Dinner,78.0,Expense,,1.56,USD,78.0
+2022-03-02,CUB - online payment,General,,To lended people,300.0,Expense,,6.0,USD,300.0
+2022-03-02,CUB - online payment,Groceries,,Brownie,50.0,Expense,,1.0,USD,50.0

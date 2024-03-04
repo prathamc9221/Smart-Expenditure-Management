@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Transaction</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container">
+    <h2 class="text-center mt-4">Add Transaction</h2>
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <form id="transactionForm">
+                <div class="form-group">
+                    <label for="date">Date:</label>
+                    <input type="date" class="form-control" id="date" required>
+                </div>
+                <div class="form-group">
+                    <label for="description">Description:</label>
+                    <input type="text" class="form-control" id="description">
+                </div>
+                <div class="form-group">
+                    <label for="category">Category:</label>
+                    <input type="text" class="form-control" id="category">
+                </div>
+                <div class="form-group">
+                    <label for="cost">Cost:</label>
+                    <input type="number" step="0.01" class="form-control" id="cost" required>
+                </div>
+                <div class="form-group">
+                    <label for="currency">Currency:</label>
+                    <input type="text" class="form-control" id="currency">
+                </div>
+                <div class="form-group">
+                    <label for="email_address">Email Address:</label>
+                    <input type="text" class="form-control" id="email_address" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+    $(document).ready(function() {
+        $('#transactionForm').submit(function(event) {
+            event.preventDefault();
+            var formData = {
+                Date: $('#date').val(),
+                Description: $('#description').val(),
+                Category: $('#category').val(),
+                Cost: $('#cost').val(),
+                Currency: $('#currency').val(),
+                customer_id: $('#email_address').val()
+            };
+
+            $.ajax({
+                type: 'POST',
+                url: 'http://localhost:5050/add_expense',
+                data: JSON.stringify(formData),
+                contentType: 'application/json',
+                success: function(response) {
+                    console.log(response);
+                    alert('Transaction added successfully!');
+                    // Redirect or do something else upon successful submission
+                    window.location.href = "welcomeAccount.html";
+                },
+                error: function(xhr, status, error) {
+                    console.error(error);
+                    alert('Failed to add transaction. Please try again.');
+                }
+            });
+        });
+    });
+</script>
+
+</body>
+</html>

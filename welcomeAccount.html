@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Your Account</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container">
+    <h2 class="text-center mt-4">Welcome to Your Account</h2>
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <canvas id="myPieChart"></canvas>
+        </div>
+    </div>
+</div>
+<div>
+<p class="text-center"><a href="homepage.html">Already have an account? Log in</a></p>
+</div>
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Retrieve JSON data from session storage
+    //var jsonData = sessionStorage.getItem("jsonData");
+    
+    var jsonData =`{
+        "categorical_data_percentage": {
+            "Dining out": 1.361536591295891,
+            "General": 18.072777372558555,
+            "Groceries": 6.815787340951456,
+            "Household supplies": 39.281951535780856,
+            "Payment": 34.46794715941324
+        }
+    }`
+    var data = JSON.parse(jsonData);
+
+    // Extract labels and values from JSON data
+    var labels = Object.keys(data.categorical_data_percentage);
+    var values = Object.values(data.categorical_data_percentage);
+
+    // Pie chart data
+    var pieChartData = {
+        labels: labels,
+        datasets: [{
+            data: values,
+            backgroundColor: generateRandomColors(values.length),
+            borderWidth: 1
+        }]
+    };
+
+    // Configuration options
+    var options = {
+        responsive: true,
+        maintainAspectRatio: false
+    };
+
+    // Get the canvas element
+    var ctx = document.getElementById('myPieChart').getContext('2d');
+
+    // Create the pie chart
+    var myPieChart = new Chart(ctx, {
+        type: 'pie',
+        data: pieChartData,
+        options: options
+    });
+
+    // Function to generate random colors for the pie chart slices
+    function generateRandomColors(count) {
+        var colors = [];
+        var letters = '0123456789ABCDEF';
+        for (var i = 0; i < count; i++) {
+            var color = '#';
+            for (var j = 0; j < 6; j++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            colors.push(color);
+        }
+        return colors;
+    }
+</script>
+
+</body>
+</html>
