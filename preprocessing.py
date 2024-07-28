@@ -1,4 +1,5 @@
 #PRATHAMESH CHANDRAKANT CHAUDHARI
+#Associated with Binghamton University
 
 import pandas as pd
 import my_connection
